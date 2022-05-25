@@ -11,8 +11,8 @@
 **EASY QUESTIONS**
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
-| 1. [Two Sum](https://leetcode.com/problems/two-sum/) |  |   |
-| 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |  |  |
+| 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/two_sum.py)  |
+| 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/roman_to_int.py) |
 | 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |  |  |
 | 4. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |  |  |
 | 5. [Reverse String](https://leetcode.com/problems/reverse-string/) |  |  |
