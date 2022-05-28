@@ -13,7 +13,7 @@
 | ----- | -----| ----- |
 | 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/two_sum.py)  |
 | 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/roman_to_int.py) |
-| 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ | Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/longest_common_prefix.py) |
+| 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/longest_common_prefix.py) |
 | 4. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |  |  |
 | 5. [Reverse String](https://leetcode.com/problems/reverse-string/) |  |  |
 | 6. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |  |  |
