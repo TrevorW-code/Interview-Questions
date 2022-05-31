@@ -15,7 +15,7 @@
 | 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/roman_to_int.py) |
 | 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/longest_common_prefix.py) |
 | 4. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |  |  |
-| 5. [Reverse String](https://leetcode.com/problems/reverse-string/) | 🔄 |  |
+| 5. [Reverse String](https://leetcode.com/problems/reverse-string/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/reverse_string.py) |
 | 6. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |  |  |
 | 7. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |  |  |
 | 8. [Revising Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) |  |  |
