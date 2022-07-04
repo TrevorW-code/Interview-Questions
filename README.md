@@ -33,8 +33,8 @@
 | 20. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/) |  |  |
 | 21. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/) |  |  |
 | 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) |  |  |
-| 23. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | 🔄 |   |
-| 24. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)   | ✅  | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/palidrome_number.py) |
+| 23. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/merge_two_sorted_lists.py)  |
+| 24. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)   | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/palidrome_number.py) |
 | 25. [Japanese Cities Names II](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) |  |  |
 | 26. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) |  |  |
 | 27. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | |  |
