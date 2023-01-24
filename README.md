@@ -46,7 +46,7 @@
 | 33. [Single Number](https://leetcode.com/problems/single-number/submissions/) |  |  |
 | 34. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) |  |  |
 | 35. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) |  |  |
-| 36. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/submissions/) | |  |
+| 36. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/fizzbuzz.py) |
 | 37. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) |  |  |
 | 38. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) |  |  |
 | 39. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) |  |  |
