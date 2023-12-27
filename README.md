@@ -155,7 +155,7 @@
 | 54. [Accounts Merge](https://leetcode.com/problems/accounts-merge/submissions/) |   |           | 
 | 55. [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) |   |      | 
 | 56. [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/submissions/) |   |           |  
-| 57. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |   |      | 
+| 57. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | ✅ |      | 
 | 58. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) |   |           |
 | 59. [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |   |           | 
 | 60. [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) |     |      |
