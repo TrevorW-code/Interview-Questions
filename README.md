@@ -93,7 +93,7 @@
 | 80. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/) |   |      | 
 | 81. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/submissions/) |     |      | 
 | 82. [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) |   |      |
-| 83. [Binary Search](https://leetcode.com/problems/binary-search/submissions/) |   |      | 
+| 83. [Binary Search](https://leetcode.com/problems/binary-search/submissions/) | ✅ |   [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/binary_search.py) | 
 | 84. [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |   |      |
 | 85. [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) |   |      | 
 
