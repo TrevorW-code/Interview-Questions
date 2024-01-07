@@ -30,7 +30,7 @@
 | 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) |  |  |
 | 18. [Plus One](https://leetcode.com/problems/plus-one/submissions/) |  |  |
 | 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) |  |  |
-| 20. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/) |  |  |
+| 20. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/pascals_triangle.py) |
 | 21. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/) |  |  |
 | 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) |  |  |
 | 23. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/merge_two_sorted_lists.py)  |
