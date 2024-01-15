@@ -26,7 +26,7 @@
 | 13. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/merge_sorted_array.py) |
 | 14. [Majority Element](https://leetcode.com/problems/majority-element/submissions/) |  |  |
 | 15. [First Unique Character in String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/first_unique_char_in_str.py) |
-| 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) |  |  |
+| 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/climbing_stairs.py) |
 | 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) |  |  |
 | 18. [Plus One](https://leetcode.com/problems/plus-one/submissions/) |  |  |
 | 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) |  |  |
