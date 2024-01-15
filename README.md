@@ -24,7 +24,7 @@
 | 11. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) |  |  |
 | 12. [Sqrt](https://leetcode.com/problems/sqrtx/) | 🔄 |  |
 | 13. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/merge_sorted_array.py) |
-| 14. [Majority Element](https://leetcode.com/problems/majority-element/submissions/) |  |  |
+| 14. [Majority Element](https://leetcode.com/problems/majority-element/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/majority_element.py) |
 | 15. [First Unique Character in String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/first_unique_char_in_str.py) |
 | 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/climbing_stairs.py) |
 | 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) |  |  |
