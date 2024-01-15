@@ -24,9 +24,9 @@
 | 11. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) |  |  |
 | 12. [Sqrt](https://leetcode.com/problems/sqrtx/) | 🔄 |  |
 | 13. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/merge_sorted_array.py) |
-| 14. [Majority Element](https://leetcode.com/problems/majority-element/submissions/) |  |  |
+| 14. [Majority Element](https://leetcode.com/problems/majority-element/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/majority_element.py) |
 | 15. [First Unique Character in String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/first_unique_char_in_str.py) |
-| 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) |  |  |
+| 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/climbing_stairs.py) |
 | 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) |  |  |
 | 18. [Plus One](https://leetcode.com/problems/plus-one/submissions/) |  |  |
 | 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) |  |  |
@@ -37,7 +37,7 @@
 | 24. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)   | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/palidrome_number.py) |
 | 25. [Japanese Cities Names II](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) |  |  |
 | 26. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/max_depth_binary_tree.py) |
-| 27. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | |  |
+| 27. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | ✅ | [Python](https://github.com/TrevorW-code/Interview-Questions/blob/main/solutions/convert_sorted_array_to_binary_search_tree.py) |
 | 28. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | |  |
 | 29. [Power of Three](https://leetcode.com/problems/power-of-three/submissions/) |  |  | 
 | 30. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/submissions/) | |   |
