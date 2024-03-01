@@ -22,7 +22,7 @@ class Solution(object):
             curr.next = prev
             prev = curr
             
-            # set the set current item to the nex actual item saved in the temporary variable
+            # set the set current item to the next actual item saved in the temporary variable
             curr = nxt
         
         # return
